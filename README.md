@@ -18,7 +18,7 @@ I'm a master's student at **Carnegie Mellon University** studying **Artificial I
 - 42-632: [Neural Signal Processing](https://github.com/CMU-HKN/CMU-ECE-CS-Guide/blob/master/electives/18698.md)
 - 16-824: [Visual Learning & Recognition](https://visual-learning.cs.cmu.edu/)
 - 42-687: [Projects in Biomedical AI](http://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofbiomedicalengineering/courses/)
-- 42-698: Clinical Translation of AI
+- 16-725: [Methods in Biomedical Image Analysis](https://www.cs.cmu.edu/~galeotti/methods_course/)
 
 **Taken Courses**
 - 18-763: [Systems and Tool Chains for AI Engineers](https://github.com/CMU-HKN/CMU-ECE-CS-Guide/blob/master/electives/18763.md)
